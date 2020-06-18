@@ -1,8 +1,6 @@
 # UiPathRPA-Libraries
 Updating and using the updated Library.
 
-Using the sample library created in the Libraries Video Demo:
-
 1. Create two new components for the library which will:
 
    -- Download all invoices – and save the to a sample xlsx file called “All Invoices.xlsx”
